@@ -1,0 +1,50 @@
+
+body{
+    background: #FFFFFF;
+}
+.navbar{
+    border-bottom: 1px solid #828282;
+    background: #FFFFFF;
+}
+.photo{
+    text-align: center;
+}
+.nikita{
+    max-height: 500px;
+}
+.program{
+    max-height: 200px;
+}
+.description{
+    background: #F6F6F6;
+    text-align: center;
+}
+.skills{
+    text-align: center;
+}
+.portfolio{
+    background: #F6F6F6;
+    text-align: center;
+}
+.contacts{
+    text-align: center;
+}
+.social{
+    text-align: center;
+}
+small{
+    color:#828282;
+}
+img {
+    display: inline-block;
+    height: auto;
+    max-width: 100%;
+}
+.h1{
+    font-family: Gilroy-Bold;
+    font-size: 55px;
+    line-height: 59px;
+}
+.col-6{
+    text-align: center;
+}
